@@ -354,7 +354,7 @@ https://www.acmicpc.net/problem/3052
 https://www.acmicpc.net/problem/3053
 
 ### 백준3184번 양 풀이
-* 
+* BFS
 * 출처
 https://www.acmicpc.net/problem/3184
 
