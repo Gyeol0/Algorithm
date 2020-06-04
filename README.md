@@ -358,6 +358,11 @@ https://www.acmicpc.net/problem/3052
 * 출처
 https://www.acmicpc.net/problem/3053
 
+### 백준3085번 사탕 게임 풀이
+* 완전
+* 출처
+https://www.acmicpc.net/problem/3085
+
 ### 백준3184번 양 풀이
 * BFS
 * 출처
