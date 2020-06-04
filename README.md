@@ -152,6 +152,11 @@ https://www.acmicpc.net/problem/1712
 * 출처
 https://www.acmicpc.net/problem/1722
 
+### 백준1764번 듣보잡 풀이
+* 문자열 처리
+* 출처
+https://www.acmicpc.net/problem/1764
+
 ### 백준1904번 01타일 풀이
 * 다이나믹 프로그래밍, 수학
 * 출처
