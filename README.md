@@ -228,6 +228,11 @@ https://www.acmicpc.net/problem/2446
 * 출처
 https://www.acmicpc.net/problem/2468
 
+### 백준2468번 숫자야구 풀이
+* 
+* 출처
+https://www.acmicpc.net/problem/2503
+
 ### 백준2523번 별 찍기 - 13 풀이
 * 출처
 https://www.acmicpc.net/problem/2523
