@@ -272,6 +272,16 @@ https://www.acmicpc.net/problem/2583
 * 출처
 https://www.acmicpc.net/problem/2588
 
+### 백준2589번 보물선 풀이
+* BFS
+* 출처
+https://www.acmicpc.net/problem/2589
+
+### 백준2644번  풀이
+* BFS
+* 출처
+https://www.acmicpc.net/problem/2644
+
 ### 백준2667번 단지번호붙이기 풀이
 * BFS
 * 출처
