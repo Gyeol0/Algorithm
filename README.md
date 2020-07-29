@@ -84,6 +84,11 @@ https://www.acmicpc.net/problem/1152
 * 출처
 https://www.acmicpc.net/problem/1157
 
+### 백준1182번 부분수열의 합 풀이
+* 완전탐색
+* 출처
+https://www.acmicpc.net/problem/1182
+
 ### 백준1193번 분수찾기 풀이
 * 출처
 https://www.acmicpc.net/problem/1193
@@ -116,6 +121,11 @@ https://www.acmicpc.net/problem/1436
 * 다이나믹 프로그래밍
 * 출처
 https://www.acmicpc.net/problem/1475
+
+### 백준14888번 연산자 끼워넣기 풀이
+* 완전탐색
+* 출처
+https://www.acmicpc.net/problem/14888
 
 ### 백준1546번 평균 풀이
 * 수학
@@ -341,6 +351,12 @@ https://www.acmicpc.net/problem/2839
 * 출처
 https://www.acmicpc.net/problem/2858
 
+### 백준2864번 5와 6의 차이 풀이
+* 문자열 처리
+* 수학
+* 출처
+https://www.acmicpc.net/problem/2864
+
 ### 백준2869번 달팽이는 올라가고 싶다 풀이
 * 수학
 * 출처
@@ -406,6 +422,11 @@ https://www.acmicpc.net/problem/4948
 * 출처
 https://www.acmicpc.net/problem/4949
 
+### 백준5218번 알파벳 거리 풀이
+* 문자열 처리
+* 출처
+https://www.acmicpc.net/problem/5218
+
 ### 백준5543번 상근날드 풀이
 * 출처
 https://www.acmicpc.net/problem/5543
@@ -419,6 +440,11 @@ https://www.acmicpc.net/problem/5622
 * 완전탐색
 * 출처
 https://www.acmicpc.net/problem/6679
+
+### 백준7453번 합이 0인 네 정수 풀이
+* 
+* 출처
+https://www.acmicpc.net/problem/7453
 
 ### 백준7562번 나이트의 이동 풀이
 * BFS
