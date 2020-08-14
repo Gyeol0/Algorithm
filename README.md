@@ -207,6 +207,11 @@ https://www.acmicpc.net/problem/1978
 * 출처
 https://www.acmicpc.net/problem/2178
 
+### 백준2206번 벽 부수고 이동하기 풀이
+* BFS
+* 출처
+https://www.acmicpc.net/problem/2206
+
 ### 백준2231번 분해합 풀이
 * 완전탐색
 * 출처
@@ -340,6 +345,11 @@ https://www.acmicpc.net/problem/2775
 * 배열
 * 출처
 https://www.acmicpc.net/problem/2798
+
+### 백준2810번 컵홀더 풀이
+* 수학
+* 출처
+https://www.acmicpc.net/problem/2810
 
 ### 백준2839번 설탕 배달 풀이
 * 수학
@@ -484,9 +494,14 @@ https://www.acmicpc.net/problem/9461
 * 출처
 https://www.acmicpc.net/problem/9465
 
-### 백준9498번 시험 성적 풀
+### 백준9498번 시험 성적 풀이
 * 출처
 https://www.acmicpc.net/problem/9498
+
+### 백준9536번 여우는 어떻게 울지? 풀이
+* 문자열 
+* 출처
+https://www.acmicpc.net/problem/9536
 
 ### 백준9933번 민균이의 비밀번호 풀이
 * 문자열 처리
