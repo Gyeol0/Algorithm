@@ -132,6 +132,11 @@ https://www.acmicpc.net/problem/14888
 * 출처
 https://www.acmicpc.net/problem/1546
 
+### 백준1599번 민식어 풀이
+* 문자열 처리
+* 출처
+https://www.acmicpc.net/problem/1599
+
 ### 백준1600번 말이 되고픈 원숭이 풀이
 * BFS
 * 출처
