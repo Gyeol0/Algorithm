@@ -1,4 +1,18 @@
 # Algorithm
+### 2019 KAKAO BLIND RECRUITMENT 실패율 풀이
+* 완전탐색
+* 출처
+https://programmers.co.kr/learn/challenges?tab=all_challenges
+
+### 2019 KAKAO BLIND RECRUITMENT 후보키 풀이
+* 출처
+https://programmers.co.kr/learn/challenges?tab=all_challenges
+
+### 2019 KAKAO BLIND RECRUITMENT 오픈채팅방 풀이
+* 문자열 처리
+* 출처
+https://programmers.co.kr/learn/challenges?tab=all_challenges
+
 ### 백준1000번 A+B 풀이
 * 수학
 * 출처
