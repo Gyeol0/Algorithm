@@ -107,6 +107,12 @@ https://www.acmicpc.net/problem/1182
 * 출처
 https://www.acmicpc.net/problem/1193
 
+### 백준1202번 보석 도둑 풀이
+* 그리디 
+* 우선순위 
+* 출처
+https://www.acmicpc.net/problem/1202
+
 ### 백준1260번 DFS와 BFS 풀이
 * BFS, DFS
 * 출처
@@ -135,6 +141,11 @@ https://www.acmicpc.net/problem/1436
 * 다이나믹 프로그래밍
 * 출처
 https://www.acmicpc.net/problem/1475
+
+### 백준1484번 다이어트 풀이
+* 수학
+* 출처
+https://www.acmicpc.net/problem/1484
 
 ### 백준14888번 연산자 끼워넣기 풀이
 * 완전탐색
