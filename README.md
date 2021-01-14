@@ -194,6 +194,11 @@ https://www.acmicpc.net/problem/1712
 * 출처
 https://www.acmicpc.net/problem/1722
 
+### 백준1726번 로봇 풀이
+* BFS
+* 출처
+https://www.acmicpc.net/problem/1726
+
 ### 백준1764번 듣보잡 풀이
 * 문자열 처리
 * 출처
