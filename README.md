@@ -1,4 +1,6 @@
 # Algorithm
+## 문제 종류 및 출처
+---
 ### 2019 KAKAO BLIND RECRUITMENT 실패율 풀이
 * 완전탐색
 * 출처
