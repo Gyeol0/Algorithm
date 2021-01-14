@@ -478,6 +478,11 @@ https://www.acmicpc.net/problem/5543
 * 출처
 https://www.acmicpc.net/problem/5622
 
+### 백준6087번 레이저 통신 풀이
+* BFS
+* 출처
+https://www.acmicpc.net/problem/6087
+
 ### 백준6679번 싱기한 네자리 숫자 풀이
 * 완전탐색
 * 출처
