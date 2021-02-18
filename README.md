@@ -211,6 +211,12 @@
 * 문자열 처리
 * 출처
     * https://www.acmicpc.net/problem/1764
+    
+### 백준1987번 알파벳  풀이
+* bfs
+* 백트래킹
+* 출처
+    * https://www.acmicpc.net/problem/1987
 
 ### 백준1904번 01타일 풀이
 * 다이나믹 프로그래밍, 수학
