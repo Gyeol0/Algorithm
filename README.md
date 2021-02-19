@@ -602,6 +602,12 @@
 * 출처
     * https://www.acmicpc.net/problem/10769
 
+### 백준10775번 공항 풀이
+* Union-find
+* 그리디 알고리즘
+* 출처
+    * https://www.acmicpc.net/problem/10775
+
 ### 백준10808번 알파벳 개수 풀이
 * 문자열 처리
 * 출처
@@ -752,3 +758,9 @@
 * 구현
 * 출처
     * https://www.acmicpc.net/problem/17135
+    
+### 백준17472번 다리 만들기 2 풀이
+* bfs
+* 구현
+* 출처
+    * https://www.acmicpc.net/problem/17472
