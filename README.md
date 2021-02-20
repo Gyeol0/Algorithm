@@ -759,6 +759,12 @@
 * 출처
     * https://www.acmicpc.net/problem/17135
     
+### 백준17281번 야구 풀이
+* 완전탐색
+* 구현
+* 출처
+    * https://www.acmicpc.net/problem/17281
+    
 ### 백준17472번 다리 만들기 2 풀이
 * bfs
 * 구현
