@@ -323,6 +323,11 @@
 ### 백준2577번 숫자의 개수 풀이
 * 출처
     * https://www.acmicpc.net/problem/2577
+    
+### 백준2579번 계단 오르기 풀이
+* 다이나믹 프로그래밍
+* 출처
+    * https://www.acmicpc.net/problem/2579
 
 ### 백준2581번 소수 풀이
 * 출처
