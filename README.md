@@ -698,6 +698,12 @@
 * BFS
 * 출처
     * https://www.acmicpc.net/problem/11724
+    
+### 백준13460번 구슬 탈출 2 풀이
+* BFS
+* 구현
+* 출처
+    * https://www.acmicpc.net/problem/13460
 
 ### 백준14501번 퇴사 풀이
 * 다이나믹 프로그래밍, 완전탐색
