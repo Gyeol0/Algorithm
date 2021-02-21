@@ -1,7 +1,7 @@
 from _collections import deque
 def Bead(N, M, arr):
     dx = [-1, 0, 1, 0]
-    dy = [0, 1, 0, -1
+    dy = [0, 1, 0, -1]
     # 막힐 때까지 중력으로 구슬을 옮기는 메소드
     def Move(ax, ay, k):
         dx = [-1, 0, 1, 0]
