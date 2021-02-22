@@ -109,6 +109,7 @@
     * https://www.acmicpc.net/problem/1157
 
 ### 백준1181번 단어정렬 풀이
+* 문자열
 * 정렬
 * 출처
     * https://www.acmicpc.net/problem/1181
