@@ -788,6 +788,11 @@
 * 출처
     * https://www.acmicpc.net/problem/17406
     
+### 백준17413번 단어 뒤집기 2 풀이
+* 문자열
+* 출처
+    * https://www.acmicpc.net/problem/17413
+    
 ### 백준17472번 다리 만들기 2 풀이
 * bfs
 * 구현
