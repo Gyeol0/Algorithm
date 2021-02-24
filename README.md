@@ -229,6 +229,12 @@
 * 출처
     * https://www.acmicpc.net/problem/1904
 
+### 백준1918번 후위 표기식 풀이
+* 구현
+* 스택
+* 출처
+    * https://www.acmicpc.net/problem/1918
+    
 ### 백준1919번 애너그램 만들기 풀이
 * 문자열 처리
 * 출처
