@@ -642,6 +642,11 @@
 ### 백준10818번 최소, 최대 풀이
 * 출처
     * https://www.acmicpc.net/problem/10818
+    
+### 백준10845번 큐 풀이
+* 큐
+* 출처
+    * https://www.acmicpc.net/problem/10845
 
 ### 백준10869번 사칙연산 풀이
 * 출처
