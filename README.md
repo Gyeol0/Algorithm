@@ -820,3 +820,8 @@
 * 구현
 * 출처
     * https://www.acmicpc.net/problem/17472
+    
+### 백준18258번 큐 2 풀이
+* 큐
+* 출처
+    * https://www.acmicpc.net/problem/18258
