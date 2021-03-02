@@ -771,6 +771,12 @@
 * 출처
     * https://www.acmicpc.net/problem/15649
 
+### 백준15684번 사다리 조작 풀이
+* 백트래킹
+* 완전탐색
+* 출처
+    * https://www.acmicpc.net/problem/15649
+    
 ### 백준15686번 치킨 배달 풀이
 * 완전탐색
 * 출처
