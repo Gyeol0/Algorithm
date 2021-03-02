@@ -758,6 +758,12 @@
 * 출처
     * https://www.acmicpc.net/problem/14889
 
+### 백준14891번 톱니바퀴 풀이
+* 구현
+* 시뮬레이션
+* 출처
+    * https://www.acmicpc.net/problem/14891
+    
 ### 백준14939번 불 끄기 풀이
 * 완전탐색
 * 비트 마스킹
