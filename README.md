@@ -689,6 +689,12 @@
 * 출처
     * https://www.acmicpc.net/problem/10998
 
+### 백준11003번 최솟값 찾기 풀이
+* 슬라이딩 윈도우
+* 데크
+* 출처
+    * https://www.acmicpc.net/problem/11003
+
 ### 백준11021번 A+B - 7 풀이
 * 출처
     * https://www.acmicpc.net/problem/11021
