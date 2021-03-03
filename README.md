@@ -764,6 +764,11 @@
 * 출처
     * https://www.acmicpc.net/problem/14889
 
+### 백준14890번 경사로 풀이
+* 구현
+* 출처
+    * https://www.acmicpc.net/problem/14890
+
 ### 백준14891번 톱니바퀴 풀이
 * 구현
 * 시뮬레이션
