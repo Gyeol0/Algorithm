@@ -480,6 +480,11 @@
 * 출처
     * https://www.acmicpc.net/problem/4153
 
+### 백준4179번 불! 풀이
+* BFS
+* 출처
+    * https://www.acmicpc.net/problem/4179
+
 ### 백준4344번 평균은 넘겠지 풀이
 * 출처
     * https://www.acmicpc.net/problem/4344
