@@ -317,9 +317,15 @@
 * 출처
     * https://www.acmicpc.net/problem/2468
 
-### 백준2468번 숫자야구 풀이
+### 백준2503번 숫자야구 풀이
 * 출처
     * https://www.acmicpc.net/problem/2503
+
+### 백준2502번 떡 먹는 호랑이 풀이
+* 수학
+* 다이나믹 프로그래밍
+* 출처
+    * https://www.acmicpc.net/problem/2502
 
 ### 백준2523번 별 찍기 - 13 풀이
 * 출처
@@ -713,6 +719,11 @@
 ### 백준11022번 A+B - 8 풀이
 * 출처
     * https://www.acmicpc.net/problem/11022
+
+### 백준11279번 최대 힙 풀이
+* 우선순위 큐
+* 출처
+    * https://www.acmicpc.net/problem/11279
 
 ### 백준11403번 경로 찾기 풀이
 * BFS
