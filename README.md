@@ -294,6 +294,12 @@
 * 출처
     * https://www.acmicpc.net/problem/2309
 
+### 백준2407번 조합 풀이
+* 수학
+* 다이나믹 프로그래밍
+* 출처
+    * https://www.acmicpc.net/problem/2407
+
 ### 백준2438번 별 찍기 - 1 풀이
 * 출처
     * https://www.acmicpc.net/problem/2438
@@ -831,6 +837,12 @@
 * 구현
 * 출처
     * https://www.acmicpc.net/problem/17135
+
+### 백준17136번 색종이 붙이기 풀이
+* 완전탐색
+* 백트래킹
+* 출처
+    * https://www.acmicpc.net/problem/17136
     
 ### 백준17281번 야구 풀이
 * 완전탐색
