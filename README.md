@@ -371,11 +371,17 @@
 * 출처
     * https://www.acmicpc.net/problem/2589
 
-### 백준2644번  풀이
+### 백준2644번 촌수계산 풀이
 * BFS
 * 출처
     * https://www.acmicpc.net/problem/2644
 
+### 백준2655번  미로만들기 풀이
+* BFS
+* 우선순위 큐
+* 출처
+    * https://www.acmicpc.net/problem/2655
+    
 ### 백준2667번 단지번호붙이기 풀이
 * BFS
 * 출처
