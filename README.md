@@ -499,6 +499,12 @@
 * 출처
     * https://www.acmicpc.net/problem/3184
 
+### 백준3190번 뱀 풀이
+* 큐
+* 구현
+* 출처
+    * https://www.acmicpc.net/problem/3190
+
 ### 백준4153번 직각삼각형 풀이
 * 출처
     * https://www.acmicpc.net/problem/4153
