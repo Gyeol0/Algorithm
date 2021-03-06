@@ -78,6 +78,11 @@
 * 출처
     * https://www.acmicpc.net/problem/1085
 
+### 백준1107번 리모컨 풀이
+* 완전탐색
+* 출처
+    * https://www.acmicpc.net/problem/1107
+    
 ### 백준1110번 더하기 사이클 풀이
 * 수학
 * 출처
@@ -821,6 +826,13 @@
 ### 백준15649번 N과 M (1) 풀이
 * 출처
     * https://www.acmicpc.net/problem/15649
+
+### 백준15683번 감시 풀이
+* 완전탐색(DFS)
+* 구현
+* 시뮬레이션
+* 출처
+    * https://www.acmicpc.net/problem/15683
 
 ### 백준15684번 사다리 조작 풀이
 * 백트래킹
