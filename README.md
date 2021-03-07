@@ -855,6 +855,12 @@
 * 출처
     * https://www.acmicpc.net/problem/15740
 
+### 백준16234번 인구 이동 풀이
+* 구현
+* bfs
+* 출처
+    * https://www.acmicpc.net/problem/16234
+
 ### 백준16637번 괄호 추가하기 풀이
 * 완전탐색
 * 재귀
