@@ -1,5 +1,5 @@
 from collections import deque
-# 인구 이동 한 번
+import sys
 def People(N, arr):
     global c
     dx = [1, -1, 0, 0]
@@ -38,8 +38,8 @@ def People(N, arr):
                     arr[p[0]][p[1]] = sum_people // count
     return flag
 
-N, L, R = map(int, input().split())
-arr = [list(map(int, input().split())) for _ in range(N)]
+N, L, R = map(int, sys.stdin.readline().split())
+arr = [list(map(int, sys.stdin.readline().split())) for _ in range(N)]
 result = 0
 visit = [[0]*N for _ in range(N)]
 c = 0
