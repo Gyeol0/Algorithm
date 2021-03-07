@@ -861,6 +861,12 @@
 * 출처
     * https://www.acmicpc.net/problem/16234
 
+### 백준16235번 나무 재테크 풀이
+* 구현
+* 시뮬레이션
+* 출처
+    * https://www.acmicpc.net/problem/16235
+
 ### 백준16637번 괄호 추가하기 풀이
 * 완전탐색
 * 재귀
