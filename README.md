@@ -653,6 +653,12 @@
 * 출처
     * https://www.acmicpc.net/problem/10769
 
+### 백준10773번 제로 풀이
+* 구현
+* 스택
+* 출처
+    * https://www.acmicpc.net/problem/10773
+
 ### 백준10775번 공항 풀이
 * Union-find
 * 그리디 알고리즘
