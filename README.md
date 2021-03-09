@@ -397,6 +397,11 @@
 * 출처
     * https://www.acmicpc.net/problem/2675
 
+### 백준2696번 중앙값 구하기 풀이
+* 우선순위 큐
+* 출처
+    * https://www.acmicpc.net/problem/2696
+
 ### 백준2739번 구구단 풀이
 * 출처
     * https://www.acmicpc.net/problem/2739
