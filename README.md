@@ -584,6 +584,12 @@
 * 출처
     * https://www.acmicpc.net/problem/8958
 
+### 백준9012번 괄호 풀이
+* 스택
+* 문자열
+* 출처
+    * https://www.acmicpc.net/problem/9012
+
 ### 백준9020번 골드바흐의 추측 풀이
 * 에라토스테네스의 체
 * 출처
