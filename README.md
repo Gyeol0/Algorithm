@@ -173,6 +173,12 @@
 * 출처
     * https://www.acmicpc.net/problem/14888
 
+### 백준1541번 잃어버린 괄호 풀이
+* 문자열
+* 그리디 알고리즘
+* 출처
+    * https://www.acmicpc.net/problem/1541
+
 ### 백준1546번 평균 풀이
 * 수학
 * 출처
