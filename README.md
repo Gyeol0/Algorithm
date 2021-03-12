@@ -891,6 +891,13 @@
 * 출처
     * https://www.acmicpc.net/problem/16234
 
+### 백준16236번 아기 상어 풀이
+* 구현
+* 시뮬레이션
+* bfs
+* 출처
+    * https://www.acmicpc.net/problem/16236
+
 ### 백준16235번 나무 재테크 풀이
 * 구현
 * 시뮬레이션
