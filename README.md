@@ -10,7 +10,7 @@
 
 ---
 ### 2019 KAKAO BLIND RECRUITMENT 실패율 풀이
-* 완전탐색
+* 브루트포스(완전탐색)
 * 출처
     * https://programmers.co.kr/learn/challenges?tab=all_challenges
 
@@ -43,6 +43,11 @@
 * 출처
     * https://www.acmicpc.net/problem/1008
 
+### 백준1010번 다리 놓기 풀이
+* 다이나믹 프로그래밍
+* 출처
+    * https://www.acmicpc.net/problem/1010
+
 ### 백준1011번 Fly me to the Alpha Centauri 풀이
 * 수학
 * 출처
@@ -54,7 +59,7 @@
     * https://www.acmicpc.net/problem/1012
 
 ### 백준1018번 체스판 다시 칠하기 풀이
-* 완전탐색
+* 브루트포스(완전탐색)
 * 출처
     * https://www.acmicpc.net/problem/1018
 
@@ -64,7 +69,7 @@
     * https://www.acmicpc.net/problem/1024
 
 ### 백준1065번 한수 풀이
-* 완전탐색
+* 브루트포스(완전탐색)
 * 출처
     * https://www.acmicpc.net/problem/1065
 
@@ -79,7 +84,7 @@
     * https://www.acmicpc.net/problem/1085
 
 ### 백준1107번 리모컨 풀이
-* 완전탐색
+* 브루트포스(완전탐색)
 * 출처
     * https://www.acmicpc.net/problem/1107
     
@@ -94,7 +99,8 @@
     * https://www.acmicpc.net/problem/1111
 
 ### 백준1120번 문자열 풀이
-* 완전탐색, 문자열 처리
+* 브루트포스(완전탐색)
+* 문자열 처리
 * 출처
     * https://www.acmicpc.net/problem/1120
 
@@ -120,7 +126,7 @@
     * https://www.acmicpc.net/problem/1181
     
 ### 백준1182번 부분수열의 합 풀이
-* 완전탐색
+* 브루트포스(완전탐색)
 * 출처
     * https://www.acmicpc.net/problem/1182
 
@@ -135,7 +141,8 @@
     * https://www.acmicpc.net/problem/1202
 
 ### 백준1260번 DFS와 BFS 풀이
-* BFS, DFS
+* BFS
+* DFS
 * 출처
     * https://www.acmicpc.net/problem/1260
 
@@ -169,7 +176,7 @@
     * https://www.acmicpc.net/problem/1484
 
 ### 백준14888번 연산자 끼워넣기 풀이
-* 완전탐색
+* 브루트포스(완전탐색)
 * 출처
     * https://www.acmicpc.net/problem/14888
 
@@ -241,7 +248,8 @@
     * https://www.acmicpc.net/problem/1987
 
 ### 백준1904번 01타일 풀이
-* 다이나믹 프로그래밍, 수학
+* 다이나믹 프로그래밍
+* 수학
 * 출처
     * https://www.acmicpc.net/problem/1904
 
@@ -267,7 +275,8 @@
     * https://www.acmicpc.net/problem/1932
 
 ### 백준1966번 프린터 큐 풀이
-* 완전탐색, 큐
+* 브루트포스(완전탐색)
+* 큐
 * 출처
     * https://www.acmicpc.net/problem/1966
 
@@ -277,7 +286,8 @@
     * https://www.acmicpc.net/problem/1977
 
 ### 백준1978번 소수 찾기 풀이
-* 에라토스테네스의 체, 수학
+* 에라토스테네스의 체
+* 수학
 * 출처
     * https://www.acmicpc.net/problem/1978
 
@@ -292,7 +302,7 @@
     * https://www.acmicpc.net/problem/2206
 
 ### 백준2231번 분해합 풀이
-* 완전탐색
+* 브루트포스(완전탐색)
 * 출처
     * https://www.acmicpc.net/problem/2231
 
@@ -306,7 +316,7 @@
     * https://www.acmicpc.net/problem/2292
 
 ### 백준2309번 일곱 난쟁이 풀이
-* 완전탐색
+* 브루트포스(완전탐색)
 * 출처
     * https://www.acmicpc.net/problem/2309
 
@@ -463,7 +473,7 @@
     * https://www.acmicpc.net/problem/2839
 
 ### 백준2858번 기숙사 바닥 풀이
-* 완전탐색
+* 브루트포스(완전탐색)
 * 출처
     * https://www.acmicpc.net/problem/2858
 
@@ -569,7 +579,7 @@
     * https://www.acmicpc.net/problem/6087
 
 ### 백준6679번 싱기한 네자리 숫자 풀이
-* 완전탐색
+* 브루트포스(완전탐색)
 * 출처
     * https://www.acmicpc.net/problem/6679
 
@@ -583,7 +593,7 @@
     * https://www.acmicpc.net/problem/7562
 
 ### 백준7568번 덩치 풀이
-* 완전탐색
+* 브루트포스(완전탐색)
 * 출처
     * https://www.acmicpc.net/problem/7568
 
@@ -630,13 +640,19 @@
 * 출처
     * https://www.acmicpc.net/problem/9536
 
+### 백준9655번 돌 게임 풀이
+* 다이나믹 프로그래밍
+* 출처
+    * https://www.acmicpc.net/problem/9655
+
 ### 백준9933번 민균이의 비밀번호 풀이
 * 문자열 처리
 * 출처
     * https://www.acmicpc.net/problem/9933
 
 ### 백준9935번 문자열 폭발 풀이
-* 문자열 처리, 스택
+* 문자열 처리
+* 스택
 * 출처
     * https://www.acmicpc.net/problem/9935
 
@@ -788,7 +804,7 @@
 * BFS
 * 출처
     * https://www.acmicpc.net/problem/11724
-   
+
 ### 백준13458번 시험 감독 풀이
 * 수학
 * 출처
@@ -814,7 +830,8 @@
     * https://www.acmicpc.net/problem/14500
 
 ### 백준14501번 퇴사 풀이
-* 다이나믹 프로그래밍, 완전탐색
+* 다이나믹 프로그래밍
+* 브루트포스(완전탐색)
 * 출처
     * https://www.acmicpc.net/problem/14501
 
@@ -834,7 +851,7 @@
     * https://www.acmicpc.net/problem/14681
 
 ### 백준14889번 스타트와 링크 풀이
-* 완전탐색
+* 브루트포스(완전탐색)
 * 출처
     * https://www.acmicpc.net/problem/14889
 
@@ -850,7 +867,7 @@
     * https://www.acmicpc.net/problem/14891
     
 ### 백준14939번 불 끄기 풀이
-* 완전탐색
+* 브루트포스(완전탐색)
 * 비트 마스킹
 * 그리디 알고리즘
 * 출처
@@ -869,7 +886,7 @@
     * https://www.acmicpc.net/problem/15649
 
 ### 백준15683번 감시 풀이
-* 완전탐색(DFS)
+* 브루트포스(완전탐색)(DFS)
 * 구현
 * 시뮬레이션
 * 출처
@@ -877,12 +894,12 @@
 
 ### 백준15684번 사다리 조작 풀이
 * 백트래킹
-* 완전탐색
+* 브루트포스(완전탐색)
 * 출처
     * https://www.acmicpc.net/problem/15649
     
 ### 백준15686번 치킨 배달 풀이
-* 완전탐색
+* 브루트포스(완전탐색)
 * 출처
     * https://www.acmicpc.net/problem/15686
 
@@ -910,11 +927,11 @@
     * https://www.acmicpc.net/problem/16235
 
 ### 백준16637번 괄호 추가하기 풀이
-* 완전탐색
+* 브루트포스(완전탐색)
 * 재귀
 * 출처
     * https://www.acmicpc.net/problem/16637
-  
+
 ### 백준17070번 파이프 옮기기 1 풀이
 * dfs
 * 재귀
@@ -928,19 +945,19 @@
     * https://www.acmicpc.net/problem/17135
 
 ### 백준17136번 색종이 붙이기 풀이
-* 완전탐색
+* 브루트포스(완전탐색)
 * 백트래킹
 * 출처
     * https://www.acmicpc.net/problem/17136
     
 ### 백준17281번 야구 풀이
-* 완전탐색
+* 브루트포스(완전탐색)
 * 구현
 * 출처
     * https://www.acmicpc.net/problem/17281
-  
+
 ### 백준17406번 야구 풀이
-* 완전탐색
+* 브루트포스(완전탐색)
 * 구현
 * 출처
     * https://www.acmicpc.net/problem/17406
@@ -956,6 +973,12 @@
 * 출처
     * https://www.acmicpc.net/problem/17472
     
+### 백준17626번 Four Squares 풀이
+* 다이나믹 프로그래밍
+* 브루트포스(완전탐색)
+* 출처
+    * https://www.acmicpc.net/problem/17626
+
 ### 백준18258번 큐 2 풀이
 * 큐
 * 출처
