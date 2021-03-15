@@ -228,6 +228,11 @@
 * 문자열 처리
 * 출처
     * https://www.acmicpc.net/problem/1764
+
+### 백준1769번 3의 배수 풀이
+* 문자열 처리
+* 출처
+    * https://www.acmicpc.net/problem/1769
     
 ### 백준1987번 알파벳  풀이
 * bfs
