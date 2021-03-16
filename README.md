@@ -621,6 +621,11 @@
 * 출처
     * https://www.acmicpc.net/problem/9020
 
+### 백준9095번 1, 2, 3 더하기 풀이
+* 다이나믹 프로그래밍
+* 출처
+    * https://www.acmicpc.net/problem/9095
+
 ### 백준9461번 파도반 수열 풀이
 * 다이나믹 프로그래밍
 * 출처
