@@ -4,6 +4,6 @@ def Paper(N):
     dp.append(2)
     for i in range(2,N):
         dp.append(dp[i-1] + dp[i-2])
-    return dp[-1]
+    return dp[N-1]
 N = int(input())
 print(Paper(N) % 10007)
