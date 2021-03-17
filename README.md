@@ -810,6 +810,11 @@
 * 출처
     * https://www.acmicpc.net/problem/11724
 
+### 백준11726번 2×n 타일링 풀이
+* 다이나믹 프로그래밍
+* 출처
+    * https://www.acmicpc.net/problem/11726
+
 ### 백준13458번 시험 감독 풀이
 * 수학
 * 출처
