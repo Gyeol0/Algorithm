@@ -12,6 +12,7 @@ def hotel(C, H, N):
             else:
                 # 안넘치면 거기에 이 사람들 데리고 오는 비용 더해서 비교
                 dp[i] = min(dp[i - H[j][1]] + H[j][0], dp[i])
+
     return dp[-1]
 
 C, N = map(int, input().split())
