@@ -240,6 +240,11 @@
 * 문자열 처리
 * 출처
     * https://www.acmicpc.net/problem/1769
+
+### 백준1912번 연속합 풀이
+* 다이나믹 프로그래밍
+* 출처
+    * https://www.acmicpc.net/problem/1912
     
 ### 백준1987번 알파벳  풀이
 * bfs
@@ -786,6 +791,11 @@
 * 출처
     * https://www.acmicpc.net/problem/11022
 
+### 백준11053번 가장 긴 증가하는 부분 수열  풀이
+* 다이나믹 프로그래밍
+* 출처
+    * https://www.acmicpc.net/problem/11053
+
 ### 백준11279번 최대 힙 풀이
 * 우선순위 큐
 * 출처
@@ -814,6 +824,11 @@
 * 다이나믹 프로그래밍
 * 출처
     * https://www.acmicpc.net/problem/11726
+
+### 백준11727번 2×n 타일링 2 풀이
+* 다이나믹 프로그래밍
+* 출처
+    * https://www.acmicpc.net/problem/11727
 
 ### 백준13458번 시험 감독 풀이
 * 수학
