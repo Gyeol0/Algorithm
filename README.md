@@ -83,6 +83,11 @@
 * 출처
     * https://www.acmicpc.net/problem/1085
 
+### 백준1106번 호텔 풀이
+* 다이나믹 프로그래밍
+* 출처
+    * https://www.acmicpc.net/problem/1106
+
 ### 백준1107번 리모컨 풀이
 * 브루트포스(완전탐색)
 * 출처
