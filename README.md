@@ -241,6 +241,11 @@
 * 출처
     * https://www.acmicpc.net/problem/1769
 
+### 백준1890번 점프 풀이
+* 다이나믹 프로그래밍
+* 출처
+    * https://www.acmicpc.net/problem/1890
+
 ### 백준1912번 연속합 풀이
 * 다이나믹 프로그래밍
 * 출처
