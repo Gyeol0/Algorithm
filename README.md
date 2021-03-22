@@ -584,6 +584,12 @@
 * 출처
     * https://www.acmicpc.net/problem/5218
 
+### 백준5430번 AC 풀이
+* 문자열 처리
+* 데크
+* 출처
+    * https://www.acmicpc.net/problem/5430
+
 ### 백준5543번 상근날드 풀이
 * 출처
     * https://www.acmicpc.net/problem/5543
