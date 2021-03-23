@@ -306,6 +306,11 @@
 * 출처
     * https://www.acmicpc.net/problem/1978
 
+### 백준2156번 포도주 시식 풀이
+* 다이나믹 프로그래밍
+* 출처
+    * https://www.acmicpc.net/problem/2156
+
 ### 백준2178번 미로 탐색 풀이
 * BFS
 * 출처
