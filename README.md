@@ -924,6 +924,11 @@
 * 출처
     * https://www.acmicpc.net/problem/14939
 
+### 백준15486번 퇴사 2 풀이
+* 다이나믹 프로그래밍
+* 출처
+    * https://www.acmicpc.net/problem/15486
+    
 ### 백준15552번 빠른 A+B 풀이
 * 출처
     * https://www.acmicpc.net/problem/15552
