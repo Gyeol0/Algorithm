@@ -340,6 +340,11 @@
 * 출처
     * https://www.acmicpc.net/problem/2293
 
+### 백준2294번 동전 2 풀이
+* 다이나믹 프로그래밍
+* 출처
+    * https://www.acmicpc.net/problem/2294
+
 ### 백준2309번 일곱 난쟁이 풀이
 * 브루트포스(완전탐색)
 * 출처
@@ -756,6 +761,11 @@
 ### 백준10818번 최소, 최대 풀이
 * 출처
     * https://www.acmicpc.net/problem/10818
+
+### 백준10844번 쉬운 계단 수 풀이
+* 다이나믹 프로그래밍
+* 출처
+    * https://www.acmicpc.net/problem/10844
     
 ### 백준10845번 큐 풀이
 * 큐
