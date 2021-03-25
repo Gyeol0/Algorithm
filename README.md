@@ -657,6 +657,11 @@
 * 출처
     * https://www.acmicpc.net/problem/9020
 
+### 백준9084번 동전 풀이
+* 다이나믹 프로그래밍
+* 출처
+    * https://www.acmicpc.net/problem/9084
+
 ### 백준9095번 1, 2, 3 더하기 풀이
 * 다이나믹 프로그래밍
 * 출처
@@ -851,6 +856,11 @@
 * 문자열 처리
 * 출처
     * https://www.acmicpc.net/problem/11654
+
+### 백준11660번 구간 합 구하기 5 풀이
+* 다이나믹 프로그래밍
+* 출처
+    * https://www.acmicpc.net/problem/11660
 
 ### 백준11720번 숫자의 합 풀이
 * 출처
