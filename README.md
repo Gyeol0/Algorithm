@@ -892,6 +892,11 @@
 * 출처
     * https://www.acmicpc.net/problem/13460
 
+### 백준14490번 백대열 풀이
+* 문자열 처리
+* 출처
+    * https://www.acmicpc.net/problem/14490
+
 ### 백준14499번 주사위 굴리기 풀이
 * 구현
 * 시뮬레이션
