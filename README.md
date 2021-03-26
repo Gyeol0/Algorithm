@@ -847,6 +847,12 @@
 * 출처
     * https://www.acmicpc.net/problem/11279
 
+### 백준11399번 ATM 풀이
+* 그리디 알고리즘
+* 정렬
+* 출처
+    * https://www.acmicpc.net/problem/11399
+
 ### 백준11403번 경로 찾기 풀이
 * BFS
 * 출처
@@ -886,6 +892,17 @@
 * 출처
     * https://www.acmicpc.net/problem/12865
 
+### 백준12871번 무한 문자열 풀이
+* 문자열 처리
+* 구현
+* 출처
+    * https://www.acmicpc.net/problem/12871
+
+### 백준12907번 동물원 풀이
+* 수학
+* 출처
+    * https://www.acmicpc.net/problem/12907
+
 ### 백준13458번 시험 감독 풀이
 * 수학
 * 출처
@@ -896,6 +913,11 @@
 * 구현
 * 출처
     * https://www.acmicpc.net/problem/13460
+
+### 백준13706번 제곱근 풀이
+* 이분탐색
+* 출처
+    * https://www.acmicpc.net/problem/13706
 
 ### 백준14490번 백대열 풀이
 * 문자열 처리
@@ -1022,6 +1044,13 @@
 * 재귀
 * 출처
     * https://www.acmicpc.net/problem/16637
+
+### 백준16953번 A -> B 풀이
+* DFS
+* 재귀
+* 백트래킹
+* 출처
+    * https://www.acmicpc.net/problem/16953
 
 ### 백준17070번 파이프 옮기기 1 풀이
 * dfs
