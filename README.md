@@ -881,6 +881,11 @@
 * 출처
     * https://www.acmicpc.net/problem/11727
 
+### 백준12865번 평범한 배낭 풀이
+* 다이나믹 프로그래밍
+* 출처
+    * https://www.acmicpc.net/problem/12865
+
 ### 백준13458번 시험 감독 풀이
 * 수학
 * 출처
