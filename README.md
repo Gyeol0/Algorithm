@@ -903,6 +903,12 @@
 * 출처
     * https://www.acmicpc.net/problem/12907
 
+### 백준12967번 pqr 풀이
+* 수학
+* 누적합
+* 출처
+    * https://www.acmicpc.net/problem/12967
+
 ### 백준13458번 시험 감독 풀이
 * 수학
 * 출처
