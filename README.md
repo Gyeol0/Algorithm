@@ -898,6 +898,13 @@
 * 출처
     * https://www.acmicpc.net/problem/12871
 
+### 백준12904번 A와 B 풀이
+* 구현
+* 그리디 알고리즘
+* 문자열 처리
+* 출처
+    * https://www.acmicpc.net/problem/12904
+
 ### 백준12907번 동물원 풀이
 * 수학
 * 출처
