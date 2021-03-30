@@ -1070,6 +1070,12 @@
 * 재귀
 * 출처
     * https://www.acmicpc.net/problem/17070
+
+### 백준17103번 골드바흐 파티션 풀이
+* 수학
+* 에라토스테네스의 체
+* 출처
+    * https://www.acmicpc.net/problem/17103
     
 ### 백준17135번 캐슬 디펜스 풀이
 * bfs
