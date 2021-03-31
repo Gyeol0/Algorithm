@@ -145,6 +145,12 @@
 * 출처
     * https://www.acmicpc.net/problem/1202
 
+### 백준1242번 소풍 풀이
+* 수학
+* 요세푸스
+* 출처
+    * https://www.acmicpc.net/problem/1242
+
 ### 백준1260번 DFS와 BFS 풀이
 * BFS
 * DFS
@@ -722,6 +728,11 @@
 ### 백준10250번 ACM 호텔 풀이
 * 출처
     * https://www.acmicpc.net/problem/10250
+
+### 백준10422번 괄호 풀이
+* 다이나믹 프로그래밍
+* 출처
+    * https://www.acmicpc.net/problem/10422
 
 ### 백준10430번 나머지 풀이
 * 수학
