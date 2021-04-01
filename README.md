@@ -1069,6 +1069,14 @@
 * 출처
     * https://www.acmicpc.net/problem/16637
 
+### 백준16922번 로마 숫자 만들기 풀이
+* 수학
+* 조합
+* 백트래킹
+* 브루트포스(완전탐색)
+* 출처
+    * https://www.acmicpc.net/problem/16922
+
 ### 백준16953번 A -> B 풀이
 * DFS
 * 재귀
