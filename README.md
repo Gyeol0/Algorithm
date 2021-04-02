@@ -1130,7 +1130,12 @@
 * 구현
 * 출처
     * https://www.acmicpc.net/problem/17472
-    
+
+### 백준17609번 회문 풀이
+* 문자열 처리
+* 출처
+    * https://www.acmicpc.net/problem/17609
+
 ### 백준17626번 Four Squares 풀이
 * 다이나믹 프로그래밍
 * 브루트포스(완전탐색)
