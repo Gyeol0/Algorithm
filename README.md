@@ -1063,6 +1063,11 @@
 * 출처
     * https://www.acmicpc.net/problem/16235
 
+### 백준16507번 어두운 건 무서워 풀이
+* 누적 합
+* 출처
+    * https://www.acmicpc.net/problem/16507
+
 ### 백준16637번 괄호 추가하기 풀이
 * 브루트포스(완전탐색)
 * 재귀
