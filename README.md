@@ -242,6 +242,11 @@
 * 출처
     * https://www.acmicpc.net/problem/1726
 
+### 백준1759번 암호 만들기 풀이
+* 브루트포스(완전탐색)
+* 출처
+    * https://www.acmicpc.net/problem/1759
+
 ### 백준1764번 듣보잡 풀이
 * 문자열 처리
 * 출처
