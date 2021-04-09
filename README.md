@@ -166,6 +166,11 @@
 * 출처
     * https://www.acmicpc.net/problem/1330
 
+### 백준1339번 단어 수학 풀이
+* 그리디 알고리즘
+* 출처
+    * https://www.acmicpc.net/problem/1339
+
 ### 백준1371번 가장 많은 글자 풀이
 * 문자열 처리
 * 출처
