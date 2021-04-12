@@ -1129,6 +1129,12 @@
 * 출처
     * https://www.acmicpc.net/problem/17142
 
+### 백준17143번 낚시왕 풀이
+* 구현
+* 시뮬레이션
+* 출처
+    * https://www.acmicpc.net/problem/17143
+
 ### 백준17144번 미세먼지 안녕! 풀이
 * 구현
 * 시뮬레이션
