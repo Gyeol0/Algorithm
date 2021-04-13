@@ -1123,6 +1123,12 @@
 * 출처
     * https://www.acmicpc.net/problem/17136
 
+### 백준17140번 이차원 배열과 연산 풀이
+* 구현
+* 시뮬레이션
+* 출처
+    * https://www.acmicpc.net/problem/17140
+
 ### 백준17142번 연구소 3 풀이
 * BFS
 * 브루트포스(완전탐색)
