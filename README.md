@@ -1170,6 +1170,14 @@
 * 문자열
 * 출처
     * https://www.acmicpc.net/problem/17413
+
+### 백준17471번 게리맨더링 풀이
+* 구현
+* 시뮬레이션
+* 브루트포스(완전탐색)
+* bfs
+* 출처
+    * https://www.acmicpc.net/problem/17471
     
 ### 백준17472번 다리 만들기 2 풀이
 * bfs
