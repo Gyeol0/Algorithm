@@ -1203,6 +1203,12 @@
 * 출처
     * https://www.acmicpc.net/problem/17779
 
+### 백준17822번 원판 돌리기 풀이
+* 구현
+* 시뮬레이션
+* 출처
+    * https://www.acmicpc.net/problem/17822
+
 ### 백준18258번 큐 2 풀이
 * 큐
 * 출처
