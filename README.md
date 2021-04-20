@@ -577,6 +577,11 @@
 * 출처
     * https://www.acmicpc.net/problem/3190
 
+### 백준3687번 성냥개비 풀이
+* 다이나믹 프로그래밍
+* 출처
+    * https://www.acmicpc.net/problem/3687
+
 ### 백준4153번 직각삼각형 풀이
 * 출처
     * https://www.acmicpc.net/problem/4153
@@ -706,6 +711,12 @@
 * 다이나믹 프로그래밍
 * 출처
     * https://www.acmicpc.net/problem/9655
+
+### 백준9663번 N-Queen 풀이
+* 브루트포스(완전탐색)
+* 백트래킹
+* 출처
+    * https://www.acmicpc.net/problem/9663
 
 ### 백준9933번 민균이의 비밀번호 풀이
 * 문자열 처리
