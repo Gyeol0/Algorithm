@@ -73,6 +73,12 @@
 * 출처
     * https://www.acmicpc.net/problem/1065
 
+### 백준1074번 Z 풀이
+* 분할정복
+* 재귀
+* 출처
+    * https://www.acmicpc.net/problem/1074
+
 ### 백준1076번 저항 풀이
 * 수학
 * 출처
