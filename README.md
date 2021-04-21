@@ -972,6 +972,11 @@
 * 출처
     * https://www.acmicpc.net/problem/13460
 
+### 백준13549번 숨바꼭질 3 풀이
+* BFS
+* 출처
+    * https://www.acmicpc.net/problem/13549
+
 ### 백준13706번 제곱근 풀이
 * 이분탐색
 * 출처
