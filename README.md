@@ -290,6 +290,12 @@
 * 출처
     * https://www.acmicpc.net/problem/1904
 
+### 백준1916번 최소비용 구하기 풀이
+* 다익스트라
+* 수학
+* 출처
+    * https://www.acmicpc.net/problem/1916
+
 ### 백준1918번 후위 표기식 풀이
 * 구현
 * 스택
@@ -1073,6 +1079,12 @@
 * 브루트포스(완전탐색)
 * 출처
     * https://www.acmicpc.net/problem/15649
+
+### 백준15685번 드래곤 커브 풀이
+* 구현
+* 시뮬레이션
+* 출처
+    * https://www.acmicpc.net/problem/15685
     
 ### 백준15686번 치킨 배달 풀이
 * 브루트포스(완전탐색)
