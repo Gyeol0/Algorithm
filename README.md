@@ -1243,6 +1243,12 @@
 * 출처
     * https://www.acmicpc.net/problem/17822
 
+### 백준17825번 주사위 윷놀이 풀이
+* 구현
+* 시뮬레이션
+* 출처
+    * https://www.acmicpc.net/problem/17825
+
 ### 백준17837번 새로운 게임 2 풀이
 * 구현
 * 시뮬레이션
