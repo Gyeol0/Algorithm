@@ -182,6 +182,12 @@
 * 출처
     * https://www.acmicpc.net/problem/1371
 
+### 백준1413번 시리얼 번호 풀이
+* 문자열
+* 정렬
+* 출처
+    * https://www.acmicpc.net/problem/1413
+
 ### 백준1436번 영화감독 숌 풀이
 * 탐색
 * 출처
