@@ -313,6 +313,11 @@
 * 출처
     * https://www.acmicpc.net/problem/1919
 
+### 백준1926번 그림 풀이
+* bfs
+* 출처
+    * https://www.acmicpc.net/problem/1926
+
 ### 백준1929번 소수 구하기 풀이
 * 에라토스테네스의 체
 * 출처
