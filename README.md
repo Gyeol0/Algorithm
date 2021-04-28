@@ -618,6 +618,11 @@
 * 출처
     * https://www.acmicpc.net/problem/4344
 
+### 백준4386번 별자리 만들기 풀이
+* MST(최소 신장 트리)
+* 출처
+    * https://www.acmicpc.net/problem/4386
+
 ### 백준4673번 셀프 넘버 풀이
 * 에라토스테네스의 체
 * 출처
