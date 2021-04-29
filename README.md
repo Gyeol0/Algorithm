@@ -345,6 +345,11 @@
 * 출처
     * https://www.acmicpc.net/problem/1978
 
+### 백준2146번 다리 만들기 풀이
+* bfs
+* 출처
+    * https://www.acmicpc.net/problem/2146
+
 ### 백준2156번 포도주 시식 풀이
 * 다이나믹 프로그래밍
 * 출처
