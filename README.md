@@ -937,6 +937,11 @@
 * 출처
     * https://www.acmicpc.net/problem/11720
 
+### 백준117201 열 개씩 끊어 출력하기 풀이
+* 문자열
+* 출처
+    * https://www.acmicpc.net/problem/11721
+    
 ### 백준11724번 연결 요소의 개수 풀이
 * BFS
 * 출처
