@@ -471,6 +471,11 @@
 * 출처
     * https://www.acmicpc.net/problem/2589
 
+### 백준2609번 최대공약수와 최소공배수 풀이
+* 수학
+* 출처
+    * https://www.acmicpc.net/problem/2609
+
 ### 백준2644번 촌수계산 풀이
 * BFS
 * 출처
