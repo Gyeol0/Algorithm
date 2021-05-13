@@ -912,6 +912,11 @@
 * 출처
     * https://www.acmicpc.net/problem/11055
 
+### 백준11170번 0의 개수 풀이
+* 브루트포스(완전탐색)
+* 출처
+    * https://www.acmicpc.net/problem/11170
+
 ### 백준11279번 최대 힙 풀이
 * 우선순위 큐
 * 출처
