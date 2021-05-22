@@ -1307,3 +1307,8 @@
 * 큐
 * 출처
     * https://www.acmicpc.net/problem/18258
+
+### 백준19949번 영재의 시험 풀이
+* 브루트포스(완전탐색)
+* 출처
+    * https://www.acmicpc.net/problem/19949
