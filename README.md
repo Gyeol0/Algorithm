@@ -829,6 +829,12 @@
 * 출처
     * https://www.acmicpc.net/problem/10809
 
+### 백준10814번 나이순 정렬 풀이
+* 문자열 처리
+* 정렬
+* 출처
+    * https://www.acmicpc.net/problem/10814
+
 ### 백준10817번 세 수 풀이
 * 출처
     * https://www.acmicpc.net/problem/10817
